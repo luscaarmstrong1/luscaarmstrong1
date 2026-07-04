@@ -1,0 +1,8 @@
+<svg width="900" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Snake animation aguardando primeira geração</title>
+  <desc id="desc">Arquivo inicial para evitar imagem quebrada antes da primeira execução do workflow.</desc>
+  <rect width="900" height="160" rx="14" fill="#0d1117"/>
+  <path d="M76 84C160 42 221 118 306 76C391 34 453 118 538 76C623 34 686 118 824 58" stroke="#6ee7a8" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="824" cy="58" r="8" fill="#fcc949"/>
+  <text x="50" y="128" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Contribuições públicas do GitHub - animação será atualizada pelo workflow.</text>
+</svg>
