@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  KAIROS_PROFILE_RENDER_CHECK_2026
+</p>
+
+<p align="center">
   <a href="https://github.com/luscaarmstrong1?tab=repositories"><img alt="Repositórios públicos" src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/luscaarmstrong1/kairos-engenharia"><img alt="Kairós Engenharia" src="https://img.shields.io/badge/Kair%C3%B3s-Engenharia-fcc949?style=for-the-badge"></a>
 </p>
