@@ -1,61 +1,28 @@
-# Lucas Silva
+<div align="center">
+<h3><code>lucas@github:~$ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Public GitHub contribution calendar, generated daily from real counts" />
+<br>
+<h3><code>lucas@github:~$ whoami</code></h3>
+<table><tr>
+<td valign="top"><img src="./avi-ascii.svg" width="355" alt="Lucas Silva — animated ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="495" alt="Lucas Silva, electrical engineer and developer in Brazil. Energy, automation and applied AI. Python, TypeScript, Next.js and React." /></td>
+</tr></table>
+Engenharia elétrica, energia e software.<br>
+Automações rastreáveis e ferramentas para decisões técnicas.
+<br>
+<h3><code>lucas@github:~$ ls ./projects</code></h3>
+</div>
 
-Engenheiro eletricista focado em energia, geracao distribuida, automacoes Python, dados e IA aplicada a operacoes tecnicas.
+| Project | Focus |
+| :--- | :--- |
+| [Prospecta Nicho](https://github.com/luscaarmstrong1/prospecta-nicho) | Prospecção B2B e bases comerciais · TypeScript / Next.js |
+| [Solar PV Digital Twin & BESS](https://github.com/luscaarmstrong1/solar-pv-digital-twin-bess-platform) | Digital twin, desempenho fotovoltaico e otimização BESS · Python |
+| [Energy Intelligence AI](https://github.com/luscaarmstrong1/energy-intelligence-ai-platform) | Inteligência energética · Python |
+| [Conexium Engenharia](https://github.com/luscaarmstrong1/conexium-engenharia) | Engenharia elétrica, consultoria e perícias · Astro |
+| [Omega Imports](https://github.com/luscaarmstrong1/omegaimports-catalogo) | Catálogo web de produtos · HTML |
 
-Atuo na intersecao entre engenharia eletrica, processos regulatórios e tecnologia: organizando informacoes, automatizando rotinas, estruturando dados e criando ferramentas para decisao tecnica mais rapida e rastreavel.
-
-## Foco Profissional
-
-- Engenharia eletrica aplicada a energia, conexao e geracao distribuida.
-- Automacoes com Python, APIs, Google Workspace, Trello e rotinas operacionais.
-- Analise de faturas, documentos tecnicos, pareceres de acesso e fluxos de aprovacao.
-- Ferramentas internas para reduzir retrabalho, organizar evidencias e padronizar processos.
-- IA aplicada a triagem documental, classificacao de informacoes e apoio a decisao.
-
-## Projetos Em Destaque
-
-### Renovera Trello Sync
-
-Automacao privada para acompanhar projetos fotovoltaicos, ler respostas de concessionarias, organizar documentos no Drive e manter o Trello atualizado com status, links, etiquetas e historico operacional.
-
-### Renovera Intelligence
-
-Base para solucoes internas de inteligencia operacional, analise de dados e apoio a decisao em energia e engenharia.
-
-### Kairos Fatura Inteligente
-
-Ferramenta para leitura e analise preliminar de faturas de energia, demanda, credito de geracao distribuida e composicao de custos.
-
-### Kairos Auditoria de Acesso
-
-Fluxo para triagem tecnica e documental de pareceres de acesso, conexao de GD, pendencias e casos de inversao de fluxo.
-
-### Kairos Orcamento FV
-
-Simulador tecnico-comercial para pre-orcamento fotovoltaico com premissas, geracao estimada e payback simples.
-
-## Stack
-
-- Python, automacoes, ETL leve e scripts operacionais.
-- Google APIs: Gmail, Drive e Sheets.
-- Trello API e organizacao de fluxos Kanban.
-- Git, GitHub, GitHub CLI e controle de versao.
-- Excel, planilhas, documentos tecnicos e dados estruturados.
-- IA aplicada a classificacao, resumo, auditoria e automacao de processos.
-
-## Como Eu Trabalho
-
-- Primeiro organizo a fonte da verdade: planilha, Drive, Trello, e-mail ou banco local.
-- Depois crio regras verificaveis e simulo antes de executar alteracoes reais.
-- Priorizo rastreabilidade: logs, relatorios, links de documentos e historico de decisoes.
-- Evito expor credenciais, dados sensiveis ou documentos de clientes em repositorios.
-
-## Principios
-
-- Automacao precisa ser util, auditavel e segura.
-- Dados tecnicos devem virar decisao, nao mais confusao.
-- Toda melhoria operacional boa reduz retrabalho sem esconder responsabilidade humana.
-
-## Status
-
-Atualmente construindo automacoes e ferramentas privadas para engenharia, energia e operacoes tecnicas da Renovera.
+<div align="center">
+<br><code>energy → data → engineering → automation</code><br>
+<sub>Original SVGs · public GitHub data · updated daily by GitHub Actions</sub><br>
+<sub><a href="./scripts/README.md">How this profile is built</a></sub>
+</div>
