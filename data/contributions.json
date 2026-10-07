@@ -5,15 +5,15 @@
   "period_end": "2026-10-07",
   "streak_policy": "Calendar ending date, or previous day if ending date has zero contributions.",
   "statistics": {
-    "total": 221,
-    "last_year": 221,
+    "total": 230,
+    "last_year": 230,
     "current_streak": 8,
     "longest_streak": 8,
     "best_day": "2026-08-20",
     "best_day_count": 18,
-    "daily_average": 0.6,
-    "active_days": 44,
-    "active_percentage": 11.96,
+    "daily_average": 0.62,
+    "active_days": 45,
+    "active_percentage": 12.23,
     "most_active_month": "2026-09",
     "monthly_totals": {
       "2025-10": 0,
@@ -25,10 +25,10 @@
       "2026-04": 0,
       "2026-05": 0,
       "2026-06": 30,
-      "2026-07": 52,
+      "2026-07": 57,
       "2026-08": 46,
       "2026-09": 68,
-      "2026-10": 25
+      "2026-10": 29
     }
   },
   "days": [
@@ -1300,7 +1300,7 @@
     {
       "date": "2026-06-15",
       "count": 9,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-06-16",
@@ -1350,7 +1350,7 @@
     {
       "date": "2026-06-25",
       "count": 6,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-06-26",
@@ -1370,12 +1370,12 @@
     {
       "date": "2026-06-29",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-06-30",
       "count": 4,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-07-01",
@@ -1385,7 +1385,7 @@
     {
       "date": "2026-07-02",
       "count": 7,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-07-03",
@@ -1394,13 +1394,13 @@
     },
     {
       "date": "2026-07-04",
-      "count": 14,
+      "count": 17,
       "level": 4
     },
     {
       "date": "2026-07-05",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
     },
     {
       "date": "2026-07-06",
@@ -1430,7 +1430,7 @@
     {
       "date": "2026-07-11",
       "count": 4,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-07-12",
@@ -1440,12 +1440,12 @@
     {
       "date": "2026-07-13",
       "count": 9,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-07-14",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-07-15",
@@ -1485,17 +1485,17 @@
     {
       "date": "2026-07-22",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-07-23",
-      "count": 3,
-      "level": 1
+      "count": 4,
+      "level": 2
     },
     {
       "date": "2026-07-24",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-07-25",
@@ -1550,7 +1550,7 @@
     {
       "date": "2026-08-04",
       "count": 7,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-08-05",
@@ -1615,7 +1615,7 @@
     {
       "date": "2026-08-17",
       "count": 6,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-08-18",
@@ -1635,7 +1635,7 @@
     {
       "date": "2026-08-21",
       "count": 4,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-08-22",
@@ -1685,7 +1685,7 @@
     {
       "date": "2026-08-31",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-09-01",
@@ -1725,7 +1725,7 @@
     {
       "date": "2026-09-08",
       "count": 11,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-09-09",
@@ -1760,17 +1760,17 @@
     {
       "date": "2026-09-15",
       "count": 10,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-09-16",
       "count": 4,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-09-17",
       "count": 7,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-09-18",
@@ -1780,7 +1780,7 @@
     {
       "date": "2026-09-19",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-09-20",
@@ -1790,7 +1790,7 @@
     {
       "date": "2026-09-21",
       "count": 6,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-09-22",
@@ -1805,7 +1805,7 @@
     {
       "date": "2026-09-24",
       "count": 6,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-09-25",
@@ -1840,7 +1840,7 @@
     {
       "date": "2026-10-01",
       "count": 9,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-10-02",
@@ -1855,17 +1855,17 @@
     {
       "date": "2026-10-04",
       "count": 3,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-10-05",
       "count": 7,
-      "level": 2
+      "level": 3
     },
     {
       "date": "2026-10-06",
-      "count": 3,
-      "level": 1
+      "count": 7,
+      "level": 3
     },
     {
       "date": "2026-10-07",
