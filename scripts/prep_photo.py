@@ -14,8 +14,9 @@ def main():
     image = ImageOps.exif_transpose(Image.open(ROOT/'assets/source-photo.png')).convert('RGBA')
     if not args.skip_rembg:
         try:
-            from rembg import remove
-            image = remove(image)
+            from rembg import remove, new_session
+            # Explicit lightweight model avoids changing rembg defaults / large downloads.
+            image = remove(image, session=new_session('u2netp'))
         except Exception as exc:
             warnings.warn(f'Background removal unavailable ({type(exc).__name__}); retaining original.')
     canvas = Image.new('RGBA', image.size, 'white'); canvas.alpha_composite(image)
