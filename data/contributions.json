@@ -1,8 +1,8 @@
 {
   "username": "luscaarmstrong1",
   "source": "https://github.com/users/luscaarmstrong1/contributions",
-  "period_start": "2025-10-26",
-  "period_end": "2026-10-31",
+  "period_start": "2025-11-02",
+  "period_end": "2026-11-01",
   "streak_policy": "Calendar ending date, or previous day if ending date has zero contributions.",
   "statistics": {
     "total": 285,
@@ -11,12 +11,11 @@
     "longest_streak": 9,
     "best_day": "2026-10-19",
     "best_day_count": 26,
-    "daily_average": 0.77,
+    "daily_average": 0.78,
     "active_days": 51,
-    "active_percentage": 13.75,
+    "active_percentage": 13.97,
     "most_active_month": "2026-10",
     "monthly_totals": {
-      "2025-10": 0,
       "2025-11": 0,
       "2025-12": 0,
       "2026-01": 0,
@@ -28,45 +27,11 @@
       "2026-07": 57,
       "2026-08": 46,
       "2026-09": 68,
-      "2026-10": 84
+      "2026-10": 84,
+      "2026-11": 0
     }
   },
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0,
@@ -1884,6 +1849,11 @@
     },
     {
       "date": "2026-10-31",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-01",
       "count": 0,
       "level": 0
     }
