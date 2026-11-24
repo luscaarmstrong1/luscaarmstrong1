@@ -2,7 +2,7 @@
   "username": "luscaarmstrong1",
   "source": "https://github.com/users/luscaarmstrong1/contributions",
   "period_start": "2025-11-23",
-  "period_end": "2026-11-23",
+  "period_end": "2026-11-24",
   "streak_policy": "Calendar ending date, or previous day if ending date has zero contributions.",
   "statistics": {
     "total": 294,
@@ -13,7 +13,7 @@
     "best_day_count": 26,
     "daily_average": 0.8,
     "active_days": 55,
-    "active_percentage": 15.03,
+    "active_percentage": 14.99,
     "most_active_month": "2026-10",
     "monthly_totals": {
       "2025-11": 0,
@@ -1859,6 +1859,11 @@
     },
     {
       "date": "2026-11-23",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-24",
       "count": 0,
       "level": 0
     }
